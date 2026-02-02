@@ -1,6 +1,6 @@
-const jahid={
+const x={
     name:'name',
     age:'22'
 
 }
-console.log(jahid.age);
+console.log(x.age);
