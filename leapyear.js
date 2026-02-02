@@ -1,4 +1,5 @@
 
+//leapyear check korar function
 
 function leapyear(year){
     if(year%400==0){
